@@ -1,4 +1,4 @@
-# 🏡 Housing Price Predictor
+# 🏡 Real Estate Price Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Ensemble_Learning-F7931E.svg)
