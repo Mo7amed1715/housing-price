@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Ensemble_Learning-F7931E.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Wrangling-150458.svg)
-![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange.svg)
 
 An advanced regression model built to predict continuous housing prices based on high-dimensional property feature datasets.
 
